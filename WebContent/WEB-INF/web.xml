@@ -6,7 +6,7 @@
 		</description>
 		<display-name>DownloadFileService</display-name>
 		<servlet-name>DownloadFileService</servlet-name>
-		<servlet-class>DownloadFileService</servlet-class>
+		<servlet-class>com.disney.CDTest.DownloadFileService</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>DownloadFileService</servlet-name>
